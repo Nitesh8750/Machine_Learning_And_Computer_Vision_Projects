@@ -27,7 +27,9 @@ The primary objectives of human posture recognition technology are as follows:
 <br>
 
 You can also take reference from:
+<br>
 https://www.kaggle.com/code/venkatkumar001/yoga-pose-recognition-mediapipe
+<br>
 https://www.kaggle.com/code/alifarajnia/pose-detection-mediapipe
 
 <br>
