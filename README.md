@@ -24,6 +24,11 @@ The primary objectives of human posture recognition technology are as follows:
 <br>
 • Overall, yoga posture recognition has the potential to revolutionize the way people practice 
   yoga, making it more effective, accessible, and enjoyable for everyone.
+<br>
+
+You can also take reference from:
+https://www.kaggle.com/code/venkatkumar001/yoga-pose-recognition-mediapipe
+https://www.kaggle.com/code/alifarajnia/pose-detection-mediapipe
 
 <br>
 Author - Nitesh Kumar
