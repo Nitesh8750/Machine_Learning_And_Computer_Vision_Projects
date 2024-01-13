@@ -26,4 +26,4 @@ The primary objectives of human posture recognition technology are as follows:
   yoga, making it more effective, accessible, and enjoyable for everyone.
 
 <br>
-Author - Nitesh 
+Author - Nitesh Kumar
