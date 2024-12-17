@@ -87,7 +87,6 @@ Fork the repository.<br>
 Clone the repository to your local machine.<br>
 Create a new branch for your feature or fix.<br>
 Submit a pull request with a clear description of your changes.<br>
-<br>
 
 ## License
 All projects in this repository are licensed under the MIT License. Feel free to use, modify, and distribute the code with proper attribution.
