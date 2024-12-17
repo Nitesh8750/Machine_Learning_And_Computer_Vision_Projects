@@ -1,4 +1,4 @@
-#Smart CCTV Surveillance System
+# Smart CCTV Surveillance System
 
 Welcome! This repository contains all of the code, notebooks, images and other materials related to the projects If you'd like to see anything in particular, please send me an email: nk7003361@gmail.com or leave an issue.
 
@@ -6,7 +6,7 @@ The Smart CCTV Surveillance System with Telegram Bot is a modern security soluti
 
 ![image](https://github.com/user-attachments/assets/a26961dc-d393-42c5-be7b-78675652c025)
 
-OBJECTIVES:-
+# OBJECTIVES:-
 The primary objective of the Smart CCTV Surveillance System with Telegram Bot is to develop an intelligent, user-friendly, and automated monitoring solution that ensures enhanced security and minimizes manual intervention. This system is designed to achieve the following specific goals:
 <br>
 •	To capture and analyze images from CCTV cameras in real-time, identifying whether the individual is a family member or an unknown person using pre-trained image datasets.<br>
