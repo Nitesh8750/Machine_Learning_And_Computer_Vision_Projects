@@ -34,6 +34,24 @@ You can also take reference from:
 https://www.kaggle.com/code/venkatkumar001/yoga-pose-recognition-mediapipe
 <br>
 https://www.kaggle.com/code/alifarajnia/pose-detection-mediapipe
-
 <br>
-Author - Nitesh Kumar
+
+## License
+This project is open-source and available under the MIT License.
+
+---
+
+## Credits
+- **Dataset**: Provided by LexSet on Kaggle.
+- **Libraries**: TensorFlow, Keras, OpenCV, and others.
+
+---
+
+## Contact
+For any questions or suggestions, feel free to reach out:
+- **Name**: Nitesh Kumar
+- **Email**: nk7003361@gmail.com
+
+---
+
+**Thank you for using this project!** 🚀
