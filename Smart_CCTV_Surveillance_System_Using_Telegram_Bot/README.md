@@ -12,3 +12,5 @@ The primary objective of the Smart CCTV Surveillance System with Telegram Bot is
 •	To capture and analyze images from CCTV cameras in real-time, identifying whether the individual is a family member or an unknown person using pre-trained image datasets.<br>
 •	To instantly send notifications via a Telegram bot when an unrecognized person is detected, ensuring timely alerts to the user.<br>
 •	To allow the user to confirm if an unknown person is actually known or authorized. This interaction via Telegram will enable the system to update the database dynamically with new entries.<br>
+
+# Author - Nitesh Kumar
