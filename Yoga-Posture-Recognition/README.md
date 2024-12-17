@@ -42,7 +42,6 @@ This project is open-source and available under the MIT License.
 ---
 
 ## Credits
-- **Dataset**: Provided by LexSet on Kaggle.
 - **Libraries**: TensorFlow, Keras, OpenCV, and others.
 
 ---
