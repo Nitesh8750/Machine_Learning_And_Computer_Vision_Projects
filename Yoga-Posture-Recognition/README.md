@@ -8,6 +8,9 @@ ranging from content-based retrieval, surveillance, indoor and outdoor monitorin
 virtual reality until animation and entertainment. In particular, we are interested in 
 human posture detection in the framework of home-human interface.
 
+![image](https://github.com/user-attachments/assets/a3e03bc5-c76f-4d34-a9b8-9f68b28693cb)
+
+
 The primary objectives of human posture recognition technology are as follows:
 <br>
 • To develop a Yoga posture recognition that can track and monitor a user's yoga practice, 
