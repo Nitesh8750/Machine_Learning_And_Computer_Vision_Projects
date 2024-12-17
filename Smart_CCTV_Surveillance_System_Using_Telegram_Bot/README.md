@@ -13,4 +13,22 @@ The primary objective of the Smart CCTV Surveillance System with Telegram Bot is
 •	To instantly send notifications via a Telegram bot when an unrecognized person is detected, ensuring timely alerts to the user.<br>
 •	To allow the user to confirm if an unknown person is actually known or authorized. This interaction via Telegram will enable the system to update the database dynamically with new entries.<br>
 
-# Author - Nitesh Kumar
+## License
+This project is open-source and available under the MIT License.
+
+---
+
+## Credits
+- **Dataset**: Provided by LexSet on Kaggle.
+- **Libraries**: TensorFlow, Keras, OpenCV, and others.
+
+---
+
+## Contact
+For any questions or suggestions, feel free to reach out:
+- **Name**: Nitesh Kumar
+- **Email**: nk7003361@gmail.com
+
+---
+
+**Thank you for using this project!** 🚀
