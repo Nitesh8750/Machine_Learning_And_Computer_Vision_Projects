@@ -68,13 +68,6 @@ This repository contains multiple machine learning and computer vision projects 
 
 ---
 
-## Repository Structure
-<repository-root>/
-│ README.md -> Overview of all projects │ ├── sign_language_detection/ -> Sign Language Detection project │ ├── README.md -> Detailed project documentation │ ├── Drowsiness_detection/ -> Drowsiness Detection project │ ├── README.md -> Detailed project documentation │ ├── fall_detection/ -> Fall Detection project │ ├── README.md -> Detailed project documentation │ ├── smart_cctv_surveillance/ -> Smart CCTV Surveillance project │ ├── README.md -> Detailed project documentation │ ├── yoga_posture_recognition/ -> Yoga Posture Recognition project │ ├── README.md -> Detailed project documentation │ └── utils/
-
-
----
-
 ## Requirements
 Each project includes its own dependencies in a `requirements.txt` file. To install dependencies for a specific project, run:
 pip install -r <project-folder>/requirements.txt
